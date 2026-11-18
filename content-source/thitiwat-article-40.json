@@ -1,0 +1,101 @@
+{
+  "source": "https://www.fsegwealthconsultant.com/article-detail.php?id=40",
+  "images": [
+    {
+      "source": "uploads/article_6a30ff57c4b098.61880859.jpeg",
+      "local": "/thitiwat-profile/01.jpeg",
+      "sha256": "67eb9e09809edea6b9d5d1e167f98cf437dc453d8123a8e6d8fbe5db6f204091",
+      "bytes": 763362,
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "source": "embedded-image-2",
+      "local": "/thitiwat-profile/02.png",
+      "sha256": "6ae9282afc1db45450bf41f9bb5e7c2d496cd461858bd754c171d79f178ad8cc",
+      "bytes": 23368,
+      "width": 360,
+      "height": 360
+    },
+    {
+      "source": "embedded-image-3",
+      "local": "/thitiwat-profile/03.jpg",
+      "sha256": "c5e956dc6dfa77253469cff15caacf9f903ac85579e481665c46eaa76ebb2004",
+      "bytes": 367808,
+      "width": 2476,
+      "height": 892
+    },
+    {
+      "source": "embedded-image-4",
+      "local": "/thitiwat-profile/04.jpg",
+      "sha256": "cd46af2ecc8b6908ce1fcfc0a377c2424ec1181e20b48631e2c7217abd121fc7",
+      "bytes": 318328,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "source": "embedded-image-5",
+      "local": "/thitiwat-profile/05.webp",
+      "sha256": "ad5b5c09727e0722bf2da3c8b0b01719359b539b9320d25b766d0236502c0f85",
+      "bytes": 9484,
+      "width": 521,
+      "height": 383
+    },
+    {
+      "source": "embedded-image-6",
+      "local": "/thitiwat-profile/06.jpg",
+      "sha256": "89928e0e0b15fdfeab7e147fbec22c95a53e1a0196ff0d82be42813edb71caf5",
+      "bytes": 264172,
+      "width": 1284,
+      "height": 2092
+    },
+    {
+      "source": "embedded-image-7",
+      "local": "/thitiwat-profile/07.jpg",
+      "sha256": "895a8f321ca1986b8ddc8fa72ee0f96c74154a2d24f37b970a93b9f0de59e41c",
+      "bytes": 260086,
+      "width": 1284,
+      "height": 2068
+    },
+    {
+      "source": "embedded-image-8",
+      "local": "/thitiwat-profile/08.jpg",
+      "sha256": "9c6277bbfa75fa70886cb89582d5bb588e7299716d5fe125789405da988ba33b",
+      "bytes": 267102,
+      "width": 1284,
+      "height": 2172
+    },
+    {
+      "source": "embedded-image-9",
+      "local": "/thitiwat-profile/09.jpg",
+      "sha256": "2e4ef0defd8a1fc50755cb767cfc29004616e7ac97639a5c0e52eb65ecdef7d1",
+      "bytes": 86005,
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "source": "embedded-image-10",
+      "local": "/thitiwat-profile/10.jpg",
+      "sha256": "dcda0803a433cfa14da57e57eebc84d16d4a0bd9908fcc371a60df48bd1aa2c4",
+      "bytes": 11484,
+      "width": 268,
+      "height": 78
+    },
+    {
+      "source": "embedded-image-11",
+      "local": "/thitiwat-profile/11.jpg",
+      "sha256": "278c0a49b11005322aa63582b50542859d06f165915eefa42a140b9238bc49a2",
+      "bytes": 311808,
+      "width": 1852,
+      "height": 849
+    },
+    {
+      "source": "embedded-image-12",
+      "local": "/thitiwat-profile/12.jpg",
+      "sha256": "b51ca4ced8f1732fe6d12011b6afd91ef282612ded0c4ef9a0ace51cb96b76bc",
+      "bytes": 308208,
+      "width": 1851,
+      "height": 849
+    }
+  ]
+}

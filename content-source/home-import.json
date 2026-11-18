@@ -1,0 +1,749 @@
+{
+  "source": "https://www.fsegwealthconsultant.com/index.php",
+  "target": "/",
+  "images": [
+    {
+      "source": "images/hero-main-1.png",
+      "local": "/original-home/001.png",
+      "bytes": 1477708,
+      "sha256": "29a877f81027db846646289bf9c9d6225df2f66dd04de47fe355d677f491d0dc",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "images/line_oa_chat_260610_131222_group_0.jpg",
+      "local": "/original-home/002.jpg",
+      "bytes": 596707,
+      "sha256": "f143d7d8d12ffec1483327eb96033a4d19b0522a1961955bceb58e890aef7e6d",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "images/line_oa_chat_260610_131222_group_1.jpg",
+      "local": "/original-home/003.jpg",
+      "bytes": 429348,
+      "sha256": "7bd333dabfcc15587639f5b8e63b8bfe7a5663035e2fc8276660b2dddf9c0642",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "images/line_oa_chat_260610_131222_group_2.jpg",
+      "local": "/original-home/004.jpg",
+      "bytes": 468218,
+      "sha256": "bf7d1046abc48f125ba80b1d8933841b034e3db6295f263d8df477f8d1cf2904",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "images/line_oa_chat_260610_131222_group_3.jpg",
+      "local": "/original-home/005.jpg",
+      "bytes": 429271,
+      "sha256": "c4ba71e2c66fd596a79eccc4fabc063bc4420a91a30cf4f0208c44a9ab1645e3",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "images/line_oa_chat_260610_131222_group_4.jpg",
+      "local": "/original-home/006.jpg",
+      "bytes": 479707,
+      "sha256": "2de3b822b6da54cf121cd20cce5b603b8bdef3c547f9efc100247b2e3470b20f",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "images/logo.png",
+      "local": "/original-home/007.png",
+      "bytes": 35843,
+      "sha256": "30eedb8681a8742f985643231c935cce7bbd1fb70a8310ed0158544c9375a8a0",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "source": "uploads/article_6ac06e3ac69031.84605850.jpeg",
+      "local": "/original-home/008.jpeg",
+      "bytes": 395588,
+      "sha256": "2b717cf996cd47f8463f42f0419c094e0d1531feac6230260c49fe095d895bf6",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "source": "uploads/article_6abb5b8c83b087.55358381.png",
+      "local": "/original-home/009.png",
+      "bytes": 1919934,
+      "sha256": "d6ff111553630bbcdd065a27d3fb86f9380f50a34e2eef3efc9c244d4d8ece0d",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6a8be08f283d33.49486651.jpeg",
+      "local": "/original-home/010.jpeg",
+      "bytes": 450873,
+      "sha256": "294f0856475f5e8e4f16a9965fbc3c8eef995b46a380ddc04492ad50859fa9f2",
+      "width": 2200,
+      "height": 1242
+    },
+    {
+      "source": "uploads/article_6a8bc25fb29ba4.06079962.jpeg",
+      "local": "/original-home/011.jpeg",
+      "bytes": 472825,
+      "sha256": "17b605e9f54f98b7ee8c73644aa8e945fddf4e63037ced97264f5329d35d3910",
+      "width": 2204,
+      "height": 1256
+    },
+    {
+      "source": "uploads/article_6a842ffd772953.81238469.jpeg",
+      "local": "/original-home/012.jpeg",
+      "bytes": 314056,
+      "sha256": "f55e36a2c1988c235526d4f97fdfb2de98e199055aeebdbf96a3d30efc7e3e43",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "source": "uploads/article_6a6c9cd8be1250.02569302.jpeg",
+      "local": "/original-home/013.jpeg",
+      "bytes": 461110,
+      "sha256": "b8834cee5f11d811114f26e0fc2b38c11a3a2045dd2a8bbbc19bc1b3507f121c",
+      "width": 2304,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a6c97acc30a22.72711295.jpeg",
+      "local": "/original-home/014.jpeg",
+      "bytes": 135380,
+      "sha256": "8530fdd859950b95e81f08c9ab4b92d982ef5d72bf13641d2f785921e1878a5f",
+      "width": 1017,
+      "height": 650
+    },
+    {
+      "source": "uploads/article_6a50416625d886.11024431.jpeg",
+      "local": "/original-home/015.jpeg",
+      "bytes": 689973,
+      "sha256": "bc600d386baf48cb156c6af1e140a254d33589f664ed82cfebc487811034136b",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a503f2087c9a2.26709392.jpeg",
+      "local": "/original-home/016.jpeg",
+      "bytes": 702782,
+      "sha256": "788631c74b5206cbfd9a96350dfcbca2979809cdeb3f41e74fc9e33f937ae06e",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a503b17ced3c6.94408956.jpeg",
+      "local": "/original-home/017.jpeg",
+      "bytes": 575656,
+      "sha256": "bc4ec7de95b2418989718f9ed71030005b8b2e44e5babfd9efc3e1cd9c6fef04",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a4646b08972e9.44578291.jpeg",
+      "local": "/original-home/018.jpeg",
+      "bytes": 356585,
+      "sha256": "13121aa25cd6c6aa142ca185fbfce02de4205b9680b6086cbca2f659f47a2af0",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "source": "uploads/article_6a3e4a9476e622.49053638.jpeg",
+      "local": "/original-home/019.jpeg",
+      "bytes": 520341,
+      "sha256": "cc8b2da588e968a1da0ae5f8d3096a798e3ee36b885a6485d7eb196df16857de",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a3b5626d58037.41349208.jpeg",
+      "local": "/original-home/020.jpeg",
+      "bytes": 526992,
+      "sha256": "43d8141cdd2ca59cd459b556067eef0d2c7643032b5296f7766cd915b8fff6f7",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a37bdbf92e9f8.66463165.jpeg",
+      "local": "/original-home/021.jpeg",
+      "bytes": 547370,
+      "sha256": "21b41432ebb2d88e95ced3a27a0d579dc36e24cca33c083c757f7d8246cb84d7",
+      "width": 2304,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a32011ec24a40.93370890.jpg",
+      "local": "/original-home/022.jpg",
+      "bytes": 180498,
+      "sha256": "ccc7d5d086fde47c6d14a52f56e0c3e3665ef13b6aa4a23fb66d9e7c59e6b711",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "source": "uploads/article_6a30ff57c4b098.61880859.jpeg",
+      "local": "/original-home/023.jpeg",
+      "bytes": 763362,
+      "sha256": "67eb9e09809edea6b9d5d1e167f98cf437dc453d8123a8e6d8fbe5db6f204091",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a335b2add3426.51670207.jpeg",
+      "local": "/original-home/024.jpeg",
+      "bytes": 1101022,
+      "sha256": "5b5c1fc95274c74e3d44f8daf06058eac5841ee940352f73099a58cf7ee63c32",
+      "width": 2816,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a2793b3bf5a4.png",
+      "local": "/original-home/025.png",
+      "bytes": 2360246,
+      "sha256": "9864f0b24390ce359e4f90ac79ec403e06c57707d874dff23fa8b057dc19a8da",
+      "width": 1248,
+      "height": 1248
+    },
+    {
+      "source": "uploads/article_6a30d1071a6028.93839672.jpeg",
+      "local": "/original-home/026.jpeg",
+      "bytes": 533920,
+      "sha256": "ed45fa8ca22f1047fb20abbcecd81478d35b7bb0b87cf646eaaa2720e2eb2734",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a33702cd1cea5.77865394.jpg",
+      "local": "/original-home/027.jpg",
+      "bytes": 67501,
+      "sha256": "b78dce24165d3457d1d58a71ef3006b47a9a1eaf7b4c36c80eb5a33bc30ca898",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "source": "uploads/article_6a316ca4cd2da0.24370710.jpeg",
+      "local": "/original-home/028.jpeg",
+      "bytes": 500813,
+      "sha256": "9320beb201f4851b22258da198dce2c188e281699552b4a9688b7fab2e9aa99a",
+      "width": 2848,
+      "height": 1496
+    },
+    {
+      "source": "uploads/article_6a316ced731cf7.97960227.jpeg",
+      "local": "/original-home/029.jpeg",
+      "bytes": 866887,
+      "sha256": "ef2e56e3b78f4ce88f40aa65e882ecadd44d9049983591050db0305b0a4d30ef",
+      "width": 2816,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a337086a580d5.29063024.jpeg",
+      "local": "/original-home/030.jpeg",
+      "bytes": 856696,
+      "sha256": "6ceb98a513ee910e462e6e3f5b94cd3a26cff7716eaadcc9954f0220a377e52c",
+      "width": 2816,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a25fe65ee49e.jpg",
+      "local": "/original-home/031.jpg",
+      "bytes": 336496,
+      "sha256": "2af3e7e99b7c0679a441f956d24c9197635ee8ad97507c21886fb0c768bb7a87",
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "source": "uploads/article_6a85b942b85434.31738958.jpeg",
+      "local": "/original-home/032.jpeg",
+      "bytes": 431034,
+      "sha256": "a1a3fd939c689922d7e224f1a67d6950ed45f78a03fcffa82caaad2832e6295e",
+      "width": 2194,
+      "height": 1234
+    },
+    {
+      "source": "uploads/article_6a716dfc70e138.33066217.jpeg",
+      "local": "/original-home/033.jpeg",
+      "bytes": 323214,
+      "sha256": "086594cff1f08f95365283b2d34f8588c076e0935d9853101f223d8a81aded50",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6a6dc8995621e3.08034796.jpeg",
+      "local": "/original-home/034.jpeg",
+      "bytes": 388082,
+      "sha256": "a26f1f2b6eb35eca49ee808964101173fb59a21db1c1ed206edbde60c243dcbd",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "source": "uploads/article_6a6db606772887.46853446.jpeg",
+      "local": "/original-home/035.jpeg",
+      "bytes": 343566,
+      "sha256": "473738f64e6e7854529e7be852d85be2806a2b3f335ec3cf1c90ef313fa51212",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "source": "uploads/article_6a4676c2c4a8c7.08438385.jpeg",
+      "local": "/original-home/036.jpeg",
+      "bytes": 594720,
+      "sha256": "4e10676fd891a1acc5d5f78a3fab518af415e38ff28c665692ff3deba38e8fa6",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a3a78e9dfbc71.12907432.jpeg",
+      "local": "/original-home/037.jpeg",
+      "bytes": 532247,
+      "sha256": "1cb390c511c7e6296119d5c909b8f3a77f101e2572868962c691bc423db920c1",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a3a7418059528.56694605.jpeg",
+      "local": "/original-home/038.jpeg",
+      "bytes": 532385,
+      "sha256": "3a06a68aec38700c0fcaffbb2168f724612dbda2244ac126afe0c22ac8a81afe",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a3a6f0c369112.18504029.jpeg",
+      "local": "/original-home/039.jpeg",
+      "bytes": 623372,
+      "sha256": "66c335e51b5dfd7a597ce4b2b0e0f556fb47b5167a92db20868555e6874621ef",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a3a6263df1384.33428874.jpeg",
+      "local": "/original-home/040.jpeg",
+      "bytes": 736027,
+      "sha256": "ae561211d0f9f5e4dbda52c7f89b5f9bd01c530629fed008e0822976eaeeb58d",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a3a5dcc7d0833.04760981.jpeg",
+      "local": "/original-home/041.jpeg",
+      "bytes": 686609,
+      "sha256": "d1b6d78f00af0c492b3a5dfb38376901cd5dde4bc603d4bcfe91e7c97615af20",
+      "width": 2304,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a3a5c8223bcf4.89102482.jpeg",
+      "local": "/original-home/042.jpeg",
+      "bytes": 648612,
+      "sha256": "b38f284c8895899b2e501a972f4de76584ce15eb7bbaafbbe29e9de32d857a0d",
+      "width": 2304,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a389704342da6.37532025.jpg",
+      "local": "/original-home/043.jpg",
+      "bytes": 344352,
+      "sha256": "87b20e782784e5109ef87e8159782e6314826631df885343abedc91fae17e470",
+      "width": 2048,
+      "height": 1365
+    },
+    {
+      "source": "uploads/article_6a388bc993b932.46873925.jpeg",
+      "local": "/original-home/044.jpeg",
+      "bytes": 654359,
+      "sha256": "3d54d66d8ce7366ba0d53a5c9b51f2cf736f9bd306f875bb79b9e8eb0a1438d3",
+      "width": 2304,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a3656d20ccf33.63971535.jpg",
+      "local": "/original-home/045.jpg",
+      "bytes": 344352,
+      "sha256": "87b20e782784e5109ef87e8159782e6314826631df885343abedc91fae17e470",
+      "width": 2048,
+      "height": 1365
+    },
+    {
+      "source": "uploads/LifeVerse_ไทยประกันชีวิต.jpg",
+      "local": "/original-home/046.jpg",
+      "bytes": 125659,
+      "sha256": "4cb61ec19c53dc1e08bad9b82e875ded27237f969fe9074db89e1757655be807",
+      "width": 1017,
+      "height": 650
+    },
+    {
+      "source": "uploads/ทรัพย์ทวี_400.jpg",
+      "local": "/original-home/047.jpg",
+      "bytes": 96116,
+      "sha256": "d2499857f03b76f2a9131377739c33c88179f5ae610b450c1e7b8841a3830891",
+      "width": 1017,
+      "height": 650
+    },
+    {
+      "source": "uploads/ธนทวี_15:8_(1).jpg",
+      "local": "/original-home/048.jpg",
+      "bytes": 100079,
+      "sha256": "dba3dcc519e9f2c18e0b0f514033ee8eab70a0f9c262aafe593d0ccaefcc38bf",
+      "width": 1017,
+      "height": 650
+    },
+    {
+      "source": "uploads/ไลฟ์เวิร์ส_เวลท์_ฟิต_99:99.jpeg",
+      "local": "/original-home/049.jpeg",
+      "bytes": 778475,
+      "sha256": "4447710e192406ced717dd936294f37a5664df176d3b7f8a45007df10a76b46b",
+      "width": 2304,
+      "height": 1536
+    },
+    {
+      "source": "uploads/money_fit_retire_85_60_ad.png",
+      "local": "/original-home/050.png",
+      "bytes": 4572794,
+      "sha256": "fb8aad91f0ead0ce23932949f4293c1515407710efd0c4bd061956ec4d8fb28f",
+      "width": 2304,
+      "height": 1536
+    },
+    {
+      "source": "uploads/HealthFitDD1.jpg",
+      "local": "/original-home/051.jpg",
+      "bytes": 94470,
+      "sha256": "54dc892718fb5859f5c1c5e95f72f58e9b541be2d3152ba52d05a4c3112c951e",
+      "width": 1017,
+      "height": 650
+    },
+    {
+      "source": "uploads/article_6a316d8c7353d7.29493663.jpeg",
+      "local": "/original-home/052.jpeg",
+      "bytes": 755329,
+      "sha256": "0462bed9a01b94bc96af01fb072d055ac990ed293f4017454821a263e42e3c7d",
+      "width": 2816,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a316d45811bf5.78917817.jpeg",
+      "local": "/original-home/053.jpeg",
+      "bytes": 976784,
+      "sha256": "cbcf7a3ff0b4588645bbcdc6284e71fb23e7fb0b119e6c85aeca5ce48725e5b5",
+      "width": 2816,
+      "height": 1536
+    },
+    {
+      "source": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800",
+      "local": "/original-home/054",
+      "bytes": 53986,
+      "sha256": "51ee74224077ee9f16bbf263fc7e61897dab69f0083fa0d24d908cd7914d0d31",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "source": "uploads/article_6ae94adc0b68c7.17331362.png",
+      "local": "/original-home/055.png",
+      "bytes": 1810254,
+      "sha256": "ac7a12631b4abb3419cac0b5f285ed8109462e60ad7171654ae7fa90cde50c84",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6ae94ac8b02683.29463176.png",
+      "local": "/original-home/056.png",
+      "bytes": 1777841,
+      "sha256": "d004c7691158fd56c916ad167b4d4a7e5fb91f985adcd2d7187a6f946c7dbc04",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6ae94a947c8e67.78895097.png",
+      "local": "/original-home/057.png",
+      "bytes": 1755065,
+      "sha256": "c6f5f243a729ccc723e8b3a7b748b723031efb962f3df4ec3b7983344c7a02dd",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6ae94a6f12ec23.54969802.png",
+      "local": "/original-home/058.png",
+      "bytes": 1720691,
+      "sha256": "c42b842176171cb75724c6379622ccc7a0cb7583b873fe28cfe27b92e396da0d",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6ae94a66ab5860.44926975.png",
+      "local": "/original-home/059.png",
+      "bytes": 1720427,
+      "sha256": "1ae9c6a208c62be2fb234fb900baa448221f944851390f9822e1979aa643d9c5",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6ae94a51c98e41.48404664.png",
+      "local": "/original-home/060.png",
+      "bytes": 1963397,
+      "sha256": "877b22f8cea1122292c4ae1706a1b5afd9a838d817d65e859dbc29c481275188",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6ae94a49958b82.39146323.png",
+      "local": "/original-home/061.png",
+      "bytes": 1702873,
+      "sha256": "a88fc6dc3bd128c02d178e032f9a1979ca0f4b6e86300a99028ae503dcf59929",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6ae94a3384b303.18454153.png",
+      "local": "/original-home/062.png",
+      "bytes": 1747553,
+      "sha256": "f829f7667d680d93fa859d5920a9790960ccd723bc2bfe40155eec06fc99b398",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6ae94a126da137.64856039.png",
+      "local": "/original-home/063.png",
+      "bytes": 1669211,
+      "sha256": "bb37f3b78a121aa2df07245cf24631f2d46f6be7d892e0e25afd0e68029ac508",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6ae944eb4bfce4.49108638.png",
+      "local": "/original-home/064.png",
+      "bytes": 1724730,
+      "sha256": "d3161d7ef6dafc2c1b9afe0f9dc6116a8dc120008675ec30695f54a0f5b541e1",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6acf20c055e0b0.04716671.png",
+      "local": "/original-home/065.png",
+      "bytes": 1810289,
+      "sha256": "f4c4052dfbaa783bfbd1b6bc2a34b3adb6e06f3b6c8ce757b16c354cd9e79788",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "source": "uploads/article_6acf1de7134aa4.77920944.png",
+      "local": "/original-home/066.png",
+      "bytes": 1948015,
+      "sha256": "726903f7c51deac8be644ebafefb4a95ffb620bc5e33fdf8a77262b6b020d27b",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "source": "uploads/article_6acf18c447f6e2.62947015.png",
+      "local": "/original-home/067.png",
+      "bytes": 1880991,
+      "sha256": "a6dae96fa6919638f6e9c4b38988b7e0b7d9583f2d011dc5cd1c26e4211264c2",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "source": "uploads/article_6aacfc5a1eebc0.39491353.jpeg",
+      "local": "/original-home/068.jpeg",
+      "bytes": 294985,
+      "sha256": "0f20d6a7da89d0bd32bd0a14d15f41cd3a60ba8d89671fbed9101aa27b9a3ff1",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "source": "uploads/article_6a8d777e896053.26800400.jpeg",
+      "local": "/original-home/069.jpeg",
+      "bytes": 374459,
+      "sha256": "008560c41888bb2671301a46f736924d289bad0c8799a5f1e9a3298c5ca43ad5",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "source": "uploads/article_6a8d4931c77e27.54030867.jpeg",
+      "local": "/original-home/070.jpeg",
+      "bytes": 341318,
+      "sha256": "2cf66efc7c36a4188ee7578396a80d2f91cd9e9b8f6aa8f7ab27830ff8cb934e",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "source": "uploads/article_6a8565c15246e0.20457800.jpeg",
+      "local": "/original-home/071.jpeg",
+      "bytes": 363553,
+      "sha256": "c360c9eea88b1d2c69e6796091e850eb5d0d95a86e456de964c5d17b36f5f803",
+      "width": 1644,
+      "height": 1054
+    },
+    {
+      "source": "uploads/article_6a6afa8b8154e8.86560558.jpeg",
+      "local": "/original-home/072.jpeg",
+      "bytes": 746368,
+      "sha256": "1558afc60f124f55096f68d705ffbcc673c523b11854fd212cfe58e1d282bd51",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a673c806587f5.56575471.png",
+      "local": "/original-home/073.png",
+      "bytes": 1407328,
+      "sha256": "47a43856a9cbebd5a340aa8cbab8d30bc6942a4a632f018e6e556a5c1accd8c2",
+      "width": 1092,
+      "height": 838
+    },
+    {
+      "source": "uploads/article_6a6738fad08176.98850525.jpg",
+      "local": "/original-home/074.jpg",
+      "bytes": 143428,
+      "sha256": "c5013274cc24e2e96fa7c120415a5634dd2a9dbee1d2518e81a9fa921a4f7ebd",
+      "width": 1477,
+      "height": 1108
+    },
+    {
+      "source": "uploads/article_6a3e5fe4e7ff95.89911519.jpeg",
+      "local": "/original-home/075.jpeg",
+      "bytes": 507226,
+      "sha256": "f4fdb225e0cbccb020bcb575c856bde988f8208c1af659bdcc4e085eff63586f",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a3e2932420ac2.94211228.webp",
+      "local": "/original-home/076.webp",
+      "bytes": 55708,
+      "sha256": "3a5bc197b75d621af6e5054bce3cb14ba7bd81ece151596eb3bb09fb76c400f3",
+      "width": 805,
+      "height": 517
+    },
+    {
+      "source": "uploads/article_6a3b3d7f77dbd9.84584630.jpg",
+      "local": "/original-home/077.jpg",
+      "bytes": 474099,
+      "sha256": "7ea2c1ee60d8ccb9fac4e2c6d74e647439e9e89bd7632a890b661c99a9137062",
+      "width": 1477,
+      "height": 1108
+    },
+    {
+      "source": "uploads/article_6a363381d7c012.84946764.jpeg",
+      "local": "/original-home/078.jpeg",
+      "bytes": 645390,
+      "sha256": "0f624072d6f687c7d311da92f179e25961ae57a3db6b50023b172e7110561b5a",
+      "width": 2304,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a34bcd9b8d8e7.69182748.png",
+      "local": "/original-home/079.png",
+      "bytes": 667954,
+      "sha256": "7565903322a0e92da2b510ba8295cae0f3f87472e2de93ce6bbc489f2505cf7f",
+      "width": 1136,
+      "height": 514
+    },
+    {
+      "source": "uploads/article_6a32877cf13a12.40820311.jpeg",
+      "local": "/original-home/080.jpeg",
+      "bytes": 514404,
+      "sha256": "94304a5053f2cc747bf3cca9d221e09232578cf2164a70eaf79f1ff895c281d9",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "source": "uploads/article_6a31e6261fcb84.61252686.jpg",
+      "local": "/original-home/081.jpg",
+      "bytes": 769898,
+      "sha256": "eca1853cdb73386f7bfde78fa7809ab64a59f4f23b5cfcfe9002b6820da4e640",
+      "width": 2048,
+      "height": 1367
+    },
+    {
+      "source": "uploads/article_6a31e1bd428d43.77059691.jpeg",
+      "local": "/original-home/082.jpeg",
+      "bytes": 613342,
+      "sha256": "39194321122bb590a28a27340eb394703e3bb7333a363467c630da3b69b2c6b7",
+      "width": 2080,
+      "height": 1664
+    },
+    {
+      "source": "uploads/article_6a31e085b71ba2.42651369.jpg",
+      "local": "/original-home/083.jpg",
+      "bytes": 1488314,
+      "sha256": "c15cbf5ce997b2f3ab64008e7721b8e4172ce8148f3d15c4e6cd14e6de6c9fc6",
+      "width": 4157,
+      "height": 2650
+    },
+    {
+      "source": "uploads/IMG_3094.jpeg",
+      "local": "/original-home/084.jpeg",
+      "bytes": 309257,
+      "sha256": "cba855d76e4473e131431c790bf5306ebf62303c4bb2f0449a29fc2f225d2b99",
+      "width": 1477,
+      "height": 1108
+    },
+    {
+      "source": "uploads/article_6a28d0368d2ab.png",
+      "local": "/original-home/085.png",
+      "bytes": 2344693,
+      "sha256": "c8112435607e4c75d83f9145171945162f5a4ee014a81e45b0b8872857901000",
+      "width": 1248,
+      "height": 1248
+    },
+    {
+      "source": "uploads/article_6a316d0baf18e9.84929002.jpeg",
+      "local": "/original-home/086.jpeg",
+      "bytes": 866887,
+      "sha256": "ef2e56e3b78f4ce88f40aa65e882ecadd44d9049983591050db0305b0a4d30ef",
+      "width": 2816,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a25fd71920da.jpg",
+      "local": "/original-home/087.jpg",
+      "bytes": 215288,
+      "sha256": "3271c401d3c2cb8d543c1c66d3237ee0e2a47d97f5288435ca24942c5748c83f",
+      "width": 1440,
+      "height": 1920
+    },
+    {
+      "source": "uploads/article_6a25fd40dd6cc.jpg",
+      "local": "/original-home/088.jpg",
+      "bytes": 257326,
+      "sha256": "8569c2e55f6a72d13a8b87c08884fcda36db75461df567d8bf7573046c729094",
+      "width": 1477,
+      "height": 1108
+    },
+    {
+      "source": "uploads/article_6a25fce29cad3.jpg",
+      "local": "/original-home/089.jpg",
+      "bytes": 186779,
+      "sha256": "e07c9d10ada3e7baf46611c78777f81830d57c2f0172ba74eef6c5732a915baa",
+      "width": 1440,
+      "height": 977
+    },
+    {
+      "source": "uploads/article_6a316dc79a2e73.46646418.jpeg",
+      "local": "/original-home/090.jpeg",
+      "bytes": 856630,
+      "sha256": "9fdcf0590ca54c604e59021a46e8f427e16e41d57a09e81ed6f2f1bf28928473",
+      "width": 2816,
+      "height": 1536
+    },
+    {
+      "source": "uploads/article_6a25fbd36e16f.jpg",
+      "local": "/original-home/091.jpg",
+      "bytes": 234787,
+      "sha256": "cfb3221ba7a04b2cd230e231a60040804d8dece4cef50f4204f763aef16c4bde",
+      "width": 1477,
+      "height": 1108
+    },
+    {
+      "source": "uploads/article_6a25fb9ba9d05.jpg",
+      "local": "/original-home/092.jpg",
+      "bytes": 167930,
+      "sha256": "f000bf5898f219a8450e7c5ab675f239ab78fbb2966811e6ed450d9467e4cb5f",
+      "width": 961,
+      "height": 1704
+    }
+  ],
+  "article_cards": 85,
+  "notes": [
+    "Original images stored byte-for-byte",
+    "Source text preserved; hidden modal placeholders excluded",
+    "Inline handlers and tracking not copied",
+    "Original consultation form is preview-only; no data submitted or stored"
+  ]
+}
